@@ -1,10 +1,12 @@
-- @kptankhoa
-- Software Engineer at VinBrain.
-- I have experience on working with JS, ReactJs, Redux.
+# @kptankhoa
+- Fullstack Devleoper at [CodeLink](https://codelink.io/).
+- I have experience on working with JS, TS, ReactJs, Redux
 - Email me: kptankhoa@gmail.com
-<br />
 
 ![](https://komarev.com/ghpvc/?username=kptankhoa&style=for-the-badge&color=lightgrey)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kptankhoa)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 kptankhoa/kptankhoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
