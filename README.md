@@ -1,7 +1,7 @@
 # @kptankhoa
 - Fullstack Devleoper at [CodeLink](https://codelink.io/).
 - I have experience on working with JS, TS, ReactJs, Redux
-- Email me: kptankhoa@gmail.com
+- Email me: me@kptankhoa.dev
 
 ![](https://komarev.com/ghpvc/?username=kptankhoa&style=for-the-badge&color=lightgrey)
 
